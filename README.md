@@ -8,5 +8,5 @@ read the prompt
 write some more code...
 read the prompt again!
 
-# third branch
-Hi I'm 3rd branch!!
+## local development
+1. open index.html in your broswer
